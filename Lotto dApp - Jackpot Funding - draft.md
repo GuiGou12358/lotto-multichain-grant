@@ -187,7 +187,7 @@ Some examples of KPI could be :
 - a survey with at least 75% positive opinion
 
 
-A draft for retro funding the dApp development can be found here: // TODO
+A draft for retro funding the dApp development can be found [here](Lotto%20dApp%20-%20Jackpot%20Funding%20-%20draft.md).
 
 The funding request will cover retroactive compensation for completed work and will also allow the team to continue more serenely to evolve and improve the dApp.
 
