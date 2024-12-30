@@ -81,7 +81,7 @@ Other possible combinations:
 
 ## Where the dApp will be deployed
 
-The Ink! smart contracts that manages the lottery must be deployed on Astar adn Phala Networks.
+The Ink! smart contracts that manages the lottery must be deployed on Astar and Phala Networks.
 
 However, the contracts that the user interacts to register numbers can be deployed on any EVM chains or Substrate chains with the Contracts pallet.
 
@@ -169,6 +169,7 @@ Offering these NFTs to DOT stakers for free could provide an additional use case
     - Multiple lottery pools
     - Special event draws
     - Reward distribution mechanisms
+- Convincing national lotteries to embrace blockchain in order to offer a web3 experience to players
 
 
 ## Conclusion
@@ -190,14 +191,13 @@ We appreciate your consideration of this proposal and welcome any feedback from 
 
 ## Future proposal for retro funding the dApp development
 
-Only if the dApp is a success (functional dApp, positive user feedback, large number of participations), the team will receive a retro funding for the dApp development.
+If the dApp is a success (functional dApp, positive user feedback, large number of participations), the team will receive a retro funding for the dApp development.
 
 KPIs will be proposed and discussed with the community in order to judge the quality of the development and the dApp.
 
 Some examples of KPI could be :
 - at least 100,000 participations and 10,000 different addresses in three months
 - a survey with at least 75% positive opinion
-
 
 A draft for retro funding the dApp development can be found [here](Lotto%20dApp%20-%20Jackpot%20Funding%20-%20draft.md).
 
