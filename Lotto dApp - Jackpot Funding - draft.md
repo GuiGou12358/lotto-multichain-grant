@@ -63,11 +63,9 @@ With a big jackpot, the probability of finding the winning numbers should be low
 
 With 100,000 DOT as jackpot, we suggest the following parameters:
 - The players can choose 6 numbers between 1 and 99. There are more 1 billion possibilities.
-- The draw will take place draw every 100 000 blocks (around 1 week).
+- The draw will take place draw every 100 000 blocks (around 1 week with 1 block per 6 second).
 
-With these parameters, a spamming attack will not be possible and if someone wants to do it, they will have to pay the transaction fees without any certainty of having the winning numbers.
-
-With a jackpot of around $1M, the tx would have to cost less than $0.00089 for it to be economically interesting to spam the blockchains with all available combinations to have a possibile gain.
+With these parameters and a jackpot of around $1M, the tx would have to cost less than $0.00089 for it to be economically interesting to spam the blockchains with all available combinations to have a possibile gain.
 
 Other possible combinations:
 
