@@ -62,10 +62,24 @@ The dApp settings should be chosen based on the size of the jackpot.
 With a big jackpot, the probability of finding the winning numbers should be low.
 
 With 100,000 DOT as jackpot, we suggest the following parameters:
-- The players can choose 6 numbers between 1 and 50. There are more 11 billion possibilities.
+- The players can choose 6 numbers between 1 and 99. There are more 1 billion possibilities.
 - The draw will take place draw every 100 000 blocks (around 1 week).
 
 With these parameters, a spamming attack will not be possible and if someone wants to do it, they will have to pay the transaction fees without any certainty of having the winning numbers.
+
+With a jackpot of around $1M, the tx would have to cost less than $0.00089 for it to be economically interesting to spam the blockchains with all available combinations to have a possibile gain.
+
+Other possible combinations:
+
+| Parameters | Possible combinations |
+|------------|-----------------------|
+| 6 numbers between 1 and 50 | 15,890,700 |
+| 7 numbers between 1 and 50 | 99,884,400 |
+| 8 numbers between 1 and 50 | 536,878,650 |
+| 6 numbers between 1 and 99 | 1,120,529,256 |
+| 7 numbers between 1 and 99 | 14,887,031,544 |
+| 8 numbers between 1 and 99 | 171,200,862,756 |
+
 
 ## Where the dApp will be deployed
 
